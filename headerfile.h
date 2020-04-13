@@ -1,0 +1,10 @@
+
+struct user{
+    int id;
+    char firstName[25];
+    char lastName[25];
+    int age;
+    float weight;
+
+};
+

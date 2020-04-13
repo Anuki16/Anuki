@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584793603 source:c:\users\user\documents\anuki\cfiles\project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headerfile.h"
+	<ctype.h>
+	<string.h>
+	<math.h>
+
+1584543296 c:\users\user\documents\anuki\cfiles\project1\headerfile.h
+
